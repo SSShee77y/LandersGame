@@ -9,6 +9,6 @@ And the goal of the game is to maneuver the lander around obstacles and terrain 
 <img src=https://user-images.githubusercontent.com/46356943/184509970-aae0907f-b2a2-45c9-954c-11d2cc107391.png width="600">
 <img src=https://user-images.githubusercontent.com/46356943/184509972-eae9df06-1ab6-43c4-a6ae-9a8591fcd4a5.png width="600">
 
-*Background radio chatter is of the Apollo 11 Mission.
-*Lander is based on the Apollo Lunar Module, and the rocket in the main menu is based off the SpaceX Falcon 9.
-*Button prompt graphics from https://thoseawesomeguys.com/prompts/.
+Background radio chatter is of the Apollo 11 Mission.
+Lander is based on the Apollo Lunar Module, and the rocket in the main menu is based off the SpaceX Falcon 9.
+Button prompt graphics from https://thoseawesomeguys.com/prompts/.
